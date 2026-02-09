@@ -78,7 +78,7 @@ notes-app-react/
 ├── node_modules/          # Dependencies
 ├── public/                # Static assets
 ├── src/
-│   ├── NotesApp.jsx      # Main application component
+│   ├── App.jsx      # Main application component
 │   ├── App.css           # Tailwind + custom styles
 │   └── main.jsx          # React entry point
 ├── index.html            # HTML template
