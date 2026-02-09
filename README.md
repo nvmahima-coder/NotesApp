@@ -5,7 +5,6 @@ A modern, feature-rich notes application built with React 18, Vite, and Tailwind
 ![Notes App](https://img.shields.io/badge/React-18.2.0-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.0-38B2AC)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🌟 Features
 
